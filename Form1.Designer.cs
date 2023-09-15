@@ -68,7 +68,7 @@ namespace TIENDA
             // 
             // txtStockP
             // 
-            this.txtStockP.Location = new System.Drawing.Point(12, 73);
+            this.txtStockP.Location = new System.Drawing.Point(12, 84);
             this.txtStockP.Name = "txtStockP";
             this.txtStockP.Size = new System.Drawing.Size(100, 20);
             this.txtStockP.TabIndex = 3;
@@ -118,7 +118,7 @@ namespace TIENDA
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(93, 191);
+            this.button3.Location = new System.Drawing.Point(92, 173);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 6;
